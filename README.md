@@ -44,8 +44,4 @@ Check out the live version of the app here: [Delivery Time Prediction](https://d
 ## Deployment
 You can deploy this Streamlit app using **Streamlit Cloud** or other cloud platforms. Ensure all dependencies are included in `requirements.txt`.
 
-## Contributing
-Pull requests are welcome! Feel free to open an issue for feature requests or bug reports.
-
----
 ### Built with ❤️ using [Streamlit](https://streamlit.io/)
